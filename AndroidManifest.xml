@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="com.cyanogenmod.CMWallpapers">
+      package="com.savagedzen.SZWallpapers">
 
       <uses-permission android:name="android.permission.SET_WALLPAPER" />
 
-    <application android:label="@string/app_name" android:icon="@drawable/cyanogenmod_icon">
+    <application android:label="@string/app_name" android:icon="@drawable/sz_icon">
         <activity
             android:name="wallpaper"
             android:label="@string/app_label"
-            android:icon="@drawable/cyanogenmod_icon"
+            android:icon="@drawable/sz_icon"
             android:screenOrientation="nosensor"
             android:finishOnCloseSystemDialogs="true">
             <intent-filter>
