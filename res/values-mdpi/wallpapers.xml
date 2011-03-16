@@ -20,6 +20,8 @@
         <item>sz_wall_1</item>
         <item>sz_wall_2</item>
         <item>sz_wall_3</item>
+        <item>sz_wall_4</item>
+        <item>sz_wall_5</item>
         <item>wall_1</item>
     </string-array>
 </resources>
