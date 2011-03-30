@@ -17,12 +17,12 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>sz_wall_0</item>
         <item>sz_wall_1</item>
         <item>sz_wall_2</item>
         <item>sz_wall_3</item>
         <item>sz_wall_4</item>
         <item>sz_wall_5</item>
-        <item>sz_logo_tahoe</item>
-        <item>wall_1</item>
+        <item>sz_wall_6</item>
     </string-array>
 </resources>
